@@ -29,6 +29,7 @@ Un ejemplo de interacción.
 >Franco acepta. Se registra la sesión y se actualiza su racha.
 
 Primer boceto de la interfaz de terminal.
+
 ==================== PAUSE ====================
  1) Ver registro de tiempo en pantalla
  2) Ver mis actividades (buscar / categorías)
