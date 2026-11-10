@@ -25,15 +25,15 @@ Un ejemplo de interacción.
 > Franco abre Pause a las 15:40, después de salir del colegio.
 > El sistema pregunta: "¿Qué estás por hacer?"
 > Franco responde: "abrir Tik tok"
-> Pause busca en el historial: a esta hora Ana no suele hacer nada. Sugiere: "¿Y si limpias tu habitacion? 
+> Pause busca en el historial: a esta hora Franco no suele hacer nada. ¿Y si limpias tu habitacion? 
 >Franco acepta. Se registra la sesión y se actualiza su racha.
 
 Primer boceto de la interfaz de terminal.
 
 ==================== PAUSE ====================
  1) Ver registro de tiempo en pantalla
- 2) Ver mis actividades (buscar / categorías)
- 3) ¿Qué hago ahora? (Desafios nuevos)
+ 2) Ver mis actividades
+ 3) ¿Qué hago ahora?
  4) Ver desafios pendientes
  5) Activar/Desactivar modo minimalista
  6) Estadísticas de la semana
