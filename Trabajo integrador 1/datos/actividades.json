@@ -1,0 +1,12 @@
+{
+  "actividades": [
+    {"nombre": "Ordenar el escritorio", "categoria": "Hogar", "duracion_estimada": 20},
+    {"nombre": "Caminata corta", "categoria": "Movimiento", "duracion_estimada": 15},
+    {"nombre": "Estiramientos", "categoria": "Movimiento", "duracion_estimada": 5},
+    {"nombre": "Llamar a un amigo", "categoria": "Social", "duracion_estimada": 10},
+    {"nombre": "Leer 10 páginas", "categoria": "Lectura", "duracion_estimada": 15},
+    {"nombre": "Anotar 3 tareas del día", "categoria": "Organización", "duracion_estimada": 5},
+    {"nombre": "Armar la mochila para mañana", "categoria": "Organización", "duracion_estimada": 10},
+    {"nombre": "Escuchar un episodio de podcast", "categoria": "Aprendizaje", "duracion_estimada": 25}
+  ]
+}

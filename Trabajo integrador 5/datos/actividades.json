@@ -1,0 +1,17 @@
+{
+  "actividades": [
+    {"nombre": "Ordenar la pieza", "categoria": "Hogar", "duracion_estimada": 20},
+    {"nombre": "Caminata", "categoria": "Movimiento", "duracion_estimada": 15},
+    {"nombre": "Estiramientos", "categoria": "Movimiento", "duracion_estimada": 5},
+    {"nombre": "Llamar a un amigo", "categoria": "Social", "duracion_estimada": 10},
+    {"nombre": "Leer 10 páginas", "categoria": "Lectura", "duracion_estimada": 15},
+    {"nombre": "Anotar 3 tareas del día", "categoria": "Organización", "duracion_estimada": 5},
+    {"nombre": "Armar la mochila para mañana", "categoria": "Organización", "duracion_estimada": 10},
+    {"nombre": "Escuchar un podcast", "categoria": "Aprendizaje", "duracion_estimada": 25},
+    {"nombre": "Meditar", "categoria": "Descanso", "duracion_estimada": 3},
+    {"nombre": "Escuchar música", "categoria": "Descanso", "duracion_estimada": 10},
+    {"nombre": "Limpiar un sitio inusual", "categoria": "Hogar", "duracion_estimada": 10},
+    {"nombre": "Escribirle a un familiar", "categoria": "Social", "duracion_estimada": 10},
+    {"nombre": "Ver un tutorial corto", "categoria": "Aprendizaje", "duracion_estimada": 15}
+  ]
+}

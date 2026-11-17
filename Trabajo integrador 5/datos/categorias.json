@@ -1,0 +1,32 @@
+{
+  "nombre": "Actividades",
+  "subcategorias": [
+    {
+      "nombre": "Cuerpo",
+      "subcategorias": [
+        {"nombre": "Movimiento"},
+        {"nombre": "Descanso"}
+      ]
+    },
+    {
+      "nombre": "Mente",
+      "subcategorias": [
+        {"nombre": "Lectura"},
+        {"nombre": "Aprendizaje"},
+        {"nombre": "Organización"}
+      ]
+    },
+    {
+      "nombre": "Vida diaria",
+      "subcategorias": [
+        {"nombre": "Hogar"}
+      ]
+    },
+    {
+      "nombre": "Vínculos",
+      "subcategorias": [
+        {"nombre": "Social"}
+      ]
+    }
+  ]
+}

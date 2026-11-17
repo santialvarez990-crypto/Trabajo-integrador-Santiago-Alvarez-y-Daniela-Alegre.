@@ -1,0 +1,10 @@
+{
+  "puentes": [
+    {"actividad_a": "Caminata", "actividad_b": "Llamar a un amigo", "peso": 3},
+    {"actividad_a": "Escuchar un podcast", "actividad_b": "Caminata", "peso": 3},
+    {"actividad_a": "Escuchar música", "actividad_b": "Limpiar un sitio inusual", "peso": 3},
+    {"actividad_a": "Leer 10 páginas", "actividad_b": "Escuchar música", "peso": 3},
+    {"actividad_a": "Armar la mochila para mañana", "actividad_b": "Ordenar la pieza", "peso": 3},
+    {"actividad_a": "Anotar 3 tareas del día", "actividad_b": "Ordenar la pieza", "peso": 3}
+  ]
+}

@@ -1,42 +1,39 @@
-# Trabajo-integrador-Santiago-Alvarez-y-Daniela-Alegre.
-Trabajo Practico N°0
+# Pause
 
-Nombre del proyecto.
-El nombre del proyecto sera "Pause"
+Trabajo integrador de **Estructura de Datos** (Tecnicatura en Programación).
 
-Dominio elegido y por qué.
-El dominio elegido sera "Bienestar digital", debido al interes que tenemos en resolver dicha problema social. La cual no tiene limites, afecta a la totalidad de las personas. La adiccion que genera causa complicaciones en cuanto a la psicologia del individuo, su perspectiva ante estimulos a largo plazo y su imposibilidad de retener la informacion.
+Pause es una aplicación de terminal que ayuda a usar menos el celular: cuando
+alguien está por abrir una red social, le propone actividades alternativas que
+entran en el tiempo que tiene libre.
 
-Problema que resuelve.
-El proyecto "Pause" regula el uso del celular. Inhibe los momentos en los cuales no hay una necesidad clara de utilizacion del dispositivo. 
+## Qué hay en este repositorio
 
-Usuario objetivo (una persona concreta, no "el usuario en general").
-Nuestro usuario objetivo sera: Franco, 11 años, estudiante secundario. Aproximadamente pasa 4 horas en redes como Tik tok o Youtube. Con una dificultad en el mantenimiento de atencion en un unico objetivo.
-Cinco funcionalidades iniciales.
+| Carpeta | Contenido |
+|---|---|
+| `Entrega final` | El proyecto completo y ejecutable. Tiene su propio `README.md` con el detalle |
+| `Trabajo integrador 0` | Definición del proyecto |
+| `Trabajo integrador 1` | Primera versión de la app: clases, carga de datos, terminal, buscar, listar y filtrar |
+| `Trabajo integrador 2` | Análisis de complejidad: búsqueda secuencial contra árbol |
+| `Trabajo integrador 3` | Árbol binario de búsqueda integrado a la app |
+| `Trabajo integrador 4` | Árbol AVL y comparación con el árbol binario |
+| `Trabajo integrador 5` | Árbol general de categorías |
+| `Trabajo integrador 6` | Heap y ranking Top-5 |
+| `Trabajo integrador 7` | Grafo de actividades relacionadas |
+| `Trabajo integrador 8` | Recorridos BFS y DFS |
 
-Las funciones de "Pause" son:
--Registro de tiempo en pantalla
--Recordatorio de pausas
--Informe diario/ semanal/ mensual y anual
--Desafíos 
--Minimalismo
+Cada carpeta de trabajo tiene los archivos que se agregaron o cambiaron en ese
+trabajo. El proyecto completo, con todo junto, está en `Entrega final`.
 
-Un ejemplo de interacción.
-> Franco abre Pause a las 15:40, después de salir del colegio.
-> El sistema pregunta: "¿Qué estás por hacer?"
-> Franco responde: "abrir Tik tok"
-> Pause busca en el historial: a esta hora Franco no suele hacer nada. ¿Y si limpias tu habitacion? 
->Franco acepta. Se registra la sesión y se actualiza su racha.
+## Cómo ejecutar
+Requiere Python 3.8 o superior, sin librerías externas.
 
-Primer boceto de la interfaz de terminal.
+```bash
+cd "Entrega final"
+python3 main.py
+```
 
-==================== PAUSE ====================
- 1) Ver registro de tiempo en pantalla
- 2) Ver mis actividades
- 3) ¿Qué hago ahora?
- 4) Ver desafios pendientes
- 5) Activar/Desactivar modo minimalista
- 6) Estadísticas de la semana
- 0) Salir
-=================================================
-Elegí una opción:
+Para correr las pruebas:
+
+```bash
+python3 -m unittest discover -s tests
+```
